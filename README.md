@@ -32,9 +32,9 @@ In this paper, we propose a simple but effective distillation strategy for unsup
 ## Citation
 If you find this repository/work helpful in your research, welcome to cite the paper.
 ```
-@article{xu2021bingo,
-    title={Bag of Instances Aggregation Boosts Self-supervised Learning}, 
+@inproceedings{bingo,
+    title={Bag of Instances Aggregation Boosts Self-supervised Distillation}, 
     author={Haohang Xu and Jiemin Fang and Xiaopeng Zhang and Lingxi Xie and Xinggang Wang and Wenrui Dai and Hongkai Xiong and Qi Tian},
-    journal={arXiv:2107.01691},
-    year={2021}
+    journal={International Conference on Learning Representations},
+    year={2022}
 }
