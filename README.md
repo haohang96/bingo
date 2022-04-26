@@ -1,4 +1,4 @@
-# Bag of Instances Aggregation Boosts Self-supervised Learning
+# Bag of Instances Aggregation Boosts Self-supervised Distillation
 
 Official implementation of the paper [Bag of Instances Aggregation Boosts Self-supervised Distillation](https://arxiv.org/abs/2107.01691),  
 by [Haohang Xu](https://www.semanticscholar.org/author/Haohang-Xu/1418682427)\*, [Jiemin Fang](https://jaminfong.cn/)*, [Xiaopeng Zhang](https://sites.google.com/site/zxphistory/), [Lingxi Xie](http://lingxixie.com/), [Xinggang Wang](https://xinggangw.info/), [Wenrui Dai](https://scholar.google.com/citations?user=Xg8MhyAAAAAJ&hl=en), [Hongkai Xiong](https://scholar.google.com/citations?user=bB16iN4AAAAJ&hl=en), [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ).
